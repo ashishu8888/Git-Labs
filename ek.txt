@@ -1,2 +1,3 @@
-I am happy that I am learning git here.
+1. I am happy that I am learning git here.
+2. this may cause merge conflict.
 
